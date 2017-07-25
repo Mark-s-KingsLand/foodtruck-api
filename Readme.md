@@ -175,3 +175,18 @@ businesses[x].transactions | string[] | A list of Yelp transactions that the bus
 You can test the APIs through POSTMAN
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a5d66337d334e29a0c87)
+
+Column Name | Column Type | Description
+---------|----------|---------
+id | string | truck id
+name | string | truck name
+image_url | string | truck image url
+is_closed | boolean | truck closed or not
+url | string | truck website url
+review_count | int | truck review count
+rating | float | truck review rating
+latitude | float | truck latitude
+longitude | float | truck longitude
+price | string | truck price in dollar level
+display_address | string | truck display_address
+phone | string | truck phone number
