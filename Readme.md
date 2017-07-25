@@ -176,6 +176,7 @@ You can test the APIs through POSTMAN
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/a5d66337d334e29a0c87)
 
+## Truck Table Schema
 Column Name | Column Type | Description
 ---------|----------|---------
 id | string | truck id
